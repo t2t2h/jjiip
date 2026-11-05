@@ -1,0 +1,9 @@
+Package: com.twix.control
+Name: Twix Control
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Floating network diagnostics and local test controls.
+Maintainer: Twix
+Author: Twix
+Section: Tweaks
+Depends: firmware (>= 14.0)
